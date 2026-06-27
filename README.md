@@ -86,4 +86,4 @@ The report is also deployed automatically to GitHub Pages on each push to `main`
 
 **[Your Name]** — Senior Test Automation Engineer  
 8 years of experience in test automation (Selenium, Java, CI/CD)  
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/fatimazahra-el-madini-58352210b/)) · [Malt](https://malt.fr/profile/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/fatimazahra-el-madini-58352210b/) · [Malt](https://malt.fr/profile/yourprofile)
